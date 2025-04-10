@@ -2,8 +2,7 @@
 
 Welcome to the Pokedex project! This is a simple web application built with **ReactJS** that allows you to search and view details about your favorite Pokémon. The application uses **React Router DOM** for navigation, **Styled Components** for styling, **Axios** for making HTTP requests to the PokéAPI, and **Vite** as the build tool for a faster development experience.
 
-![PokedexGif](/assets/Pokedex.gif)
-![PokedexGif](/assets/Pokedex2.gif)
+![PokedexGif](/assets/Pokedex.gif) ![PokedexGif](/assets/Pokedex2.gif)
 
 ## Features
 

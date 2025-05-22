@@ -35,6 +35,9 @@ My first project built with **React**! This is a **Pokedex** app that allows use
 
 ## 🛠️ Getting Started
 
+# 📄 License
+This project is licensed under the MIT License.
+
 To run the project locally:
 
 1. Clone the repository:

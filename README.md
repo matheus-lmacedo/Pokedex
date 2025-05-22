@@ -64,7 +64,7 @@ npm run dev
 
 While working on this project, I identified a few areas that needed improvement:
 
-Component Organization: Initially, the components were somewhat scattered, which made the code harder to maintain. I learned the importance of organizing components into smaller, reusable pieces.
+Component Organization: The components are somewhat scattered, which made the code harder to maintain. I learned the importance of organizing components into smaller, reusable pieces.
 
 Routing Structure: I had to rethink the routing structure and improve the way I handled navigation between pages. It made me realize how important it is to plan out the app’s architecture from the beginning.
 

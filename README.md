@@ -1,29 +1,68 @@
-# Pokedex
+# Pokedex - React App 🐾
 
-Welcome to the Pokedex project! This is a simple web application built with **ReactJS** that allows you to search and view details about your favorite Pokémon. The application uses **React Router DOM** for navigation, **Styled Components** for styling, **Axios** for making HTTP requests to the PokéAPI, and **Vite** as the build tool for a faster development experience.
+My first project built with **React**! This is a **Pokedex** app that allows users to search for Pokémon, view their details, and filter them by type. The project uses **React Router** for navigation, **Axios** for API calls, and features a **theme toggle** for light/dark mode.
 
-![PokedexGif](/assets/Pokedex.gif) ![PokedexGif](/assets/Pokedex2.gif)
+🔗 **Live Preview:**  
+👉 [Click here to visit the site](#)
 
-## Features
+---
 
-- Search for Pokémon by name
-- View detailed information about each Pokémon
-- Responsive design using Styled Components
-- Filter Pokémon by type (e.g., Fire, Water, Grass)
+## 🚀 Technologies Used
 
-## Technologies Used
+- **React** – The core library for building the user interface.
+- **React Router** – For routing and navigation between pages.
+- **Axios** – To make API requests and fetch Pokémon data.
+- **Styled-Components** – For writing scoped, dynamic, and reusable styles in JavaScript.
+- **CSS** – For styling and creating the responsive layout.
 
-- **ReactJS** - JavaScript library for building user interfaces
-- **React Router DOM** - Declarative routing for React applications
-- **Styled Components** - Library for writing CSS in JavaScript
-- **Axios** - Promise-based HTTP client for the browser and Node.js
-- **Vite** - Next-generation, fast build tool for modern web development
+---
 
-## Installation
+## 🌟 Features
 
-To get started, clone this repository and install the dependencies:
+- **Search Input**: Search for any Pokémon by name.
+- **Theme Toggle**: Switch between light and dark modes.
+- **Filters**: Filter Pokémon by type (Fire, Water, Grass, etc.).
+- **React Router**: Smooth navigation between different pages (e.g., Home, Pokémon Details).
+- **API Integration**: Uses the [Pokémon API](https://pokeapi.co/) to fetch live data.
+
+---
+
+### 💻 Design Preview
+
+![Design Preview](./design/pokedex.gif)
+
+---
+
+## 🛠️ Getting Started
+
+To run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Pokedex.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd Pokedex
+   ```
+3. Install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/pokedex.git
-cd pokedex
 npm install
+```
+
+4. Run the APP
+
+```bash
+npm run dev
+```
+
+# 💡 Lessons Learned
+
+While working on this project, I identified a few areas that needed improvement:
+
+Component Organization: Initially, the components were somewhat scattered, which made the code harder to maintain. I learned the importance of organizing components into smaller, reusable pieces.
+
+Routing Structure: I had to rethink the routing structure and improve the way I handled navigation between pages. It made me realize how important it is to plan out the app’s architecture from the beginning.
+
+This project helped me better understand React, React Router, and Axios, and gave me a deeper appreciation for organizing code effectively.
